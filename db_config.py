@@ -23,7 +23,7 @@ from sqlalchemy import create_engine, text
 
 # ── PostgreSQL credentials ─────────────────────────────────────────────────────
 DB_USER = "postgres"
-DB_PASS = "hariom"
+DB_PASS = "postgres"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "postgres"
